@@ -10,7 +10,7 @@ This repository contains a concise set of files (typically just 2-3) to demonstr
 * **Inference Rules:** Implements decision logic using `defrule`.
 * **Minimalist Design:** Focused on core functionality with a small file count.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this system, you must have the **CLIPS** environment installed.
 
